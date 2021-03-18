@@ -39,7 +39,7 @@ Dominant payment method used by the customers We also created a new variable, do
 
 # Customer Segmentation (RFM ANALYSIS)
 
-![alt text](C:\Users\ishita\Downloads\olist_project\customer_segmentation_image.png)
+![alt text](https://github.com/babiishita09/Olist-Market-Basket-Analysis/blob/main/customer_segmentation_image.png)
 
 # Customer Review:
 ![alt text](https://github.com/babiishita09/Olist-Market-Basket-Analysis/blob/main/nlp_img2.png)
