@@ -66,8 +66,6 @@ MarkupSafe==1.1.1
 matplot==0.1.9
 matplotlib==3.3.4
 mistune==0.8.4
-mkl-random==1.1.1
-mkl-service==2.3.0
 mpltools==0.2.0
 nbclient==0.5.2
 nbconvert==6.0.7
