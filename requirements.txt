@@ -82,7 +82,6 @@ pandocfilters==1.4.3
 parso==0.8.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow @ file:///C:/ci/pillow_1609842634117/work
 pipreqs==0.4.10
 pkginfo==1.7.0
 plotly==4.14.3
