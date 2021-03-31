@@ -62,8 +62,6 @@ jupyter-core==4.7.1
 jupyter-dash==0.4.0
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
-keyring==22.0.1
-kiwisolver @ file:///C:/ci/kiwisolver_1612282446297/work
 MarkupSafe==1.1.1
 matplot==0.1.9
 matplotlib==3.3.4
